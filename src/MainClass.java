@@ -13,7 +13,7 @@ public class MainClass {
     }
 }
 
-//комментарий раз 343qdq
+//комментарий раз 343qdqrgggaga
 
 /*
 коммент номер два
